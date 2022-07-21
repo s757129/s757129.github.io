@@ -22,6 +22,7 @@ body {
     background-position: 50% 50%;
     background-color: #818181;
     background-image: url('../../assets/images/background.png');
+    filter: blur(5px);
 }
 #rin-bg:after {
     top: 0;

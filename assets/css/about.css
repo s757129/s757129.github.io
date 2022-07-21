@@ -137,6 +137,15 @@
     .rin-btn {
         margin-bottom: 10px;
     }
+    .rin-logo {
+        width: 150px;
+        height: 150px;
+        margin: 10px auto;
+    }
+    .rin-logo img {
+        width: 100%;
+        height: 100%;
+    }
     .rin-left-title {
         font-size: 30px;
     }
